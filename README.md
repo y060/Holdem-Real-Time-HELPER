@@ -2,8 +2,12 @@
 本專題利用人工智慧影像辨識，在即時識別撲克牌花色數字後，將辨識出之撲克牌於GUI介面上顯示出來。
 希望我們的程式能夠給予新手輔助建議，讓剛上桌的新手彷彿有個老師在旁邊進行指導，提升德州撲克上手的容易程度，使得更多人會有意願開始遊戲。
 
+<br>
+
 ## DataSet 資料集
 來源：https://universe.roboflow.com/augmented-startups/playing-cards-ow27d
+
+<br>
 
 ## 即時辨識撲克牌數字與花色 ── YOLOv8
 https://github.com/ultralytics/ultralytics
